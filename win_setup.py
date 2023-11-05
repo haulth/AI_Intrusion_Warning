@@ -3,8 +3,8 @@ import os
 import pygame, sys
 
 
-my_token = "6691407705:AAF0ibJZ3ZYphqFX3TZT_qo2_x7loEFRO0s"
-chat_id = "-4096465980"
+my_token = "change_ with_your_token"
+chat_id = "change_ with_your_id"
 
 
 # SRC Camera
