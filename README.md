@@ -1,6 +1,4 @@
-# AI_Intrusion_Warning
- 
-# 📃AI-Online-Voting-System
+# 📃AI_Intrusion_Warning
  <h1 align="center">AI_Intrusion_Warning</h1> 
  <h2 align="center">Hệ Thống </h2> 
 
